@@ -126,11 +126,11 @@
 		<configuration configurationName="Controller_ColourSceneControllerForShows">
 			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
 		</configuration>
-		<configuration configurationName="Light_ColorTemperatureLight_2">
-			<resource resourceType="PROJECT" workspacePath="/ZBProv1.1"/>
-		</configuration>
 		<configuration configurationName="Controller_ColorSceneController">
 			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
+		</configuration>
+		<configuration configurationName="Light_ColorTemperatureLight_2">
+			<resource resourceType="PROJECT" workspacePath="/ZBProv1.1"/>
 		</configuration>
 		<configuration configurationName="Controller_ColorController">
 			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
@@ -169,10 +169,10 @@
 		<configuration configurationName="Controller_NonColorController">
 			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
 		</configuration>
-		<configuration configurationName="Controller_NonColorSceneController">
+		<configuration configurationName="Light_DimmableLight_SSL2108A">
 			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
 		</configuration>
-		<configuration configurationName="Light_DimmableLight_SSL2108A">
+		<configuration configurationName="Controller_NonColorSceneController">
 			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
 		</configuration>
 	</storageModule>
